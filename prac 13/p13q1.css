@@ -1,0 +1,21 @@
+#a{
+	background-image: url('Andrew_tate.jpg');
+	background-repeat:no-repeat;
+	background-size:300px 300px;
+}
+p{
+	color:blue;
+	padding-left:50px;
+}
+p:hover{
+	background-color:red;
+	border:2px dotted black;
+}
+h1{
+	color:red;
+}
+h1:hover{
+	background-color:blue;
+	border:2px dotted black;
+}
+	
